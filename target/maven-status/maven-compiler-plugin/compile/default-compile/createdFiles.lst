@@ -1,0 +1,8 @@
+com/posidex/exception/FileStorageException.class
+com/posidex/security/SecurityConfig.class
+com/posidex/payload/UploadFileResponse.class
+com/posidex/exception/MyFileNotFoundException.class
+com/posidex/service/FileStorageService.class
+com/posidex/controller/FileController.class
+com/posidex/FileDemoApplication.class
+com/posidex/property/FileStorageProperties.class
